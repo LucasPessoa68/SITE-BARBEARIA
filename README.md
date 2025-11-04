@@ -24,4 +24,4 @@ Pietra Rodrigues Barros <br>
 Sérgio da Silva dos Santos <br>
 Talita Ribeiro Macedo <br>
 
-Decorrente a proposta do projeto integrador no curso de Informática para negócios na Fatec Mauá,será efetuada a criação de um website com o conteúdo aprendido em sala. Nosso site criado a partir de um CNPJ real e ativo de barbearia, utilizando as tecnologias HTML, CSS
+Decorrente a proposta do projeto integrador no curso de Informática para negócios na Fatec Mauá,será efetuada a criação de um website com o conteúdo aprendido em sala. Nosso site criado a partir de um CNPJ real e ativo de barbearia, utilizando as tecnologias HTML, CSS e Java Script.
