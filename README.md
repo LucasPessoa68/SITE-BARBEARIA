@@ -47,9 +47,9 @@ O site foi construído com foco em **design responsivo**, **usabilidade** e **co
 ---
 
 ## 📂 Estrutura Completa do Projeto
-SITE-BARBEARIA/
-│<br>
-├── Barbearia/ # Pasta principal do site<br>
+SITE-BARBEARIA
+│ │   <br>
+│ ├── Barbearia/ # Pasta principal do site<br>
 │ ├── index.html # Página inicial do site (estrutura principal)<br>
 │ ├── style.css # Arquivo de estilização (cores, fontes e layout)<br>
 │ ├── script.js # Script JS para funcionalidades (menu responsivo, etc)<br>
