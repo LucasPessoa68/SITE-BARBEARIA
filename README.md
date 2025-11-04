@@ -74,8 +74,8 @@ SITE-BARBEARIA/
 - **`script.js`** → Script de interação JavaScript (ex: abrir/fechar menu no modo mobile).  
 - **`/img`** → Contém todas as imagens do projeto (logo e fotos da barbearia).  
 - **`/assets`** → Pode ser usada futuramente para ícones, fontes personalizadas ou imagens adicionais.  
-- **`README.md`** → Arquivo de documentação do projeto no GitHub (este).  
-- **`LICENSE`** → Define direitos e permissões do uso do código (opcional).  
+- **`README.md`** → Arquivo de documentação do projeto no GitHub.
+- **`LICENSE`** → Define direitos e permissões do uso do código.  
 
 ---
 
