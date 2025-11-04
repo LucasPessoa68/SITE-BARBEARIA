@@ -26,6 +26,6 @@ Nicolas Fernando Lopes <br>
 Pietra Rodrigues Barros <br>
 Sérgio da Silva dos Santos <br>
 
-<h5>PROPOSTA</h5>
+<h2>PROPOSTA:</h2>
 
 Decorrente a proposta do projeto integrador no curso de Informática para Negócios na Fatec Mauá,será efetuada a criação de um website com o conteúdo aprendido em sala. Nosso site foi criado a partir de um CNPJ real e ativo de barbearia, utilizando as tecnologias HTML, CSS e Java Script.
