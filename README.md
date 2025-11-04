@@ -47,4 +47,52 @@ O site foi construído com foco em **design responsivo**, **usabilidade** e **co
 ## 📂 Estrutura Completa do Projeto
 
 
+---
+
+### 🧾 Descrição dos Arquivos e Pastas
+
+- **`index.html`** → Estrutura principal do site, com seções de navegação, carrossel, missão, visão, valores e serviços.  
+- **`style.css`** → Define o layout, cores, tipografia e responsividade do site. Inclui efeitos em cards, botão de agendamento e menu móvel.  
+- **`script.js`** → Script de interação JavaScript (ex: abrir/fechar menu no modo mobile).  
+- **`/img`** → Contém todas as imagens do projeto (logo e fotos da barbearia).  
+- **`/assets`** → Pode ser usada futuramente para ícones, fontes personalizadas ou imagens adicionais.  
+- **`README.md`** → Arquivo de documentação do projeto no GitHub (este).  
+- **`LICENSE`** → Define direitos e permissões do uso do código (opcional).  
+
+---
+
+## 👥 Integrantes do Grupo
+
+- Beatriz Damaceno Jardim  
+- Carlos Tailleson de Santana  
+- Felipe Amaral Alves  
+- Gustavo Campos Lopes Passos  
+- Lucas Pessoa de Freitas  
+- Nicolas Fernando Lopes  
+- Pietra Rodrigues Barros  
+- Sérgio da Silva dos Santos  
+
+---
+
+## 🧭 Objetivo Geral
+
+Desenvolver um **website institucional** que represente uma barbearia real, unindo **conceitos de tecnologia, administração e comunicação**, reforçando a integração entre **negócios e inovação digital**.
+
+---
+
+## 🏁 Considerações Finais
+
+O projeto *Our Studio_Wt* representa o resultado da aplicação prática dos conhecimentos adquiridos ao longo do curso.  
+Nosso objetivo é demonstrar como a tecnologia pode **impulsionar negócios locais**, ampliando sua visibilidade e profissionalismo no ambiente digital.
+
+---
+
+### 📸 Prévia do Site
+
+*(adicione aqui uma imagem ou print do site após o upload no GitHub)*
+
+---
+
+💡 **Desenvolvido por alunos da Fatec Mauá – Curso de Informática para Negócios.**
+
 
