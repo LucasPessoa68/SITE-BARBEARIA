@@ -3,7 +3,7 @@
 <h3>Projeto site Barbershop (Our Studio_Wt) </h3>
 CNPJ:50108193000177 - W barbershop
 
-<h2>Disciplinas:</h2>
+<h2>DISCIPLINAS:</h2>
 
 Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos <br>
 Comunicação e Expressão: Prof. PhD. Andreza Maria de Souza Rocha <br>
