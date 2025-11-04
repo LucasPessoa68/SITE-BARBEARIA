@@ -9,9 +9,9 @@ Comunicação e Expressão: Prof. PhD. Andreza Maria de Souza Rocha <br>
 Administração Geral Prof. Jairo Gonçalves Duarte <br>
 
 PROJETO & SITE:
-URL projeto:https://github.com/LucasPessoa68/SITE-BARBEARIA
+URL PROJETO:https://github.com/LucasPessoa68/SITE-BARBEARIA<br>
 
-URL site:https://lucaspessoa68.github.io/SITE-BARBEARIA/Barbearia/Barbearia/index.html
+URL SITE:https://lucaspessoa68.github.io/SITE-BARBEARIA/Barbearia/Barbearia/index.html
 
 INTEGRANTES:
 Beatriz Damaceno Jardim <br>
