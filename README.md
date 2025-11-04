@@ -11,9 +11,9 @@ O projeto consiste na criação de um **site institucional** para uma barbearia 
 
 **Curso:** Informática para Negócios – Fatec Mauá  
 **Projeto Integrador:** Desenvolvimento de Website Comercial  
-**Empresa Real:** OUR STUDIO
-**CNPJ:** 50.108.193/0001-77  (W Barbershop)
-**Período:** 2025  
+**Empresa Real:** OUR STUDIO <br>
+**CNPJ:** 50.108.193/0001-77  (W Barbershop)<br>
+**Período:** 2025  <br>
 
 **Professores Orientadores:**  
 - Prof. PhD. Bruno Zolotareff dos Santos – *Informática e Negócios*  
