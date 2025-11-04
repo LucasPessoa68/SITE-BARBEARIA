@@ -28,4 +28,4 @@ Sérgio da Silva dos Santos <br>
 
 <h2>PROPOSTA:</h2>
 
-Decorrente a proposta do projeto integrador no curso de Informática para Negócios na Fatec Mauá,será efetuada a criação de um website com o conteúdo aprendido em sala. Nosso site foi criado a partir de um CNPJ real e ativo de barbearia, utilizando as tecnologias HTML, CSS e Java Script.
+Decorrente a proposta do projeto integrador no curso de Informática para Negócios na Fatec Mauá, será efetuada a criação de um website com o conteúdo de aprendizagem em sala de au. Nosso site foi criado a partir de um CNPJ real e ativo de barbearia, utilizando as tecnologias HTML, CSS e Java Script.
