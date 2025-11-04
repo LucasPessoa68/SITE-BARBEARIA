@@ -59,7 +59,6 @@ SITE-BARBEARIA   <br>
 │ │ ├── barbearia3.png # Imagem do carrossel<br>
 │ │ └── barbearia3.jpg # Imagem do carrossel<br>
 │ │<br>
-│ │<br>
 │ └── /assets # Pasta opcional (ícones, fontes, etc)<br>
 │<br>
 ├── README.md # Documentação do projeto<br>
