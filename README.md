@@ -13,6 +13,7 @@ O projeto consiste na criação de um **site institucional** para uma barbearia 
 **Empresa Real:** W Barbershop  
 **CNPJ:** 50.108.193/0001-77  
 **Período:** 2025  
+
 **Professores Orientadores:**  
 - Prof. PhD. Bruno Zolotareff dos Santos – *Informática e Negócios*  
 - Prof. PhD. Andreza Maria de Souza Rocha – *Comunicação e Expressão*  
