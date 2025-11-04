@@ -45,7 +45,23 @@ O site foi construído com foco em **design responsivo**, **usabilidade** e **co
 ---
 
 ## 📂 Estrutura Completa do Projeto
-
+SITE-BARBEARIA/
+│
+├── Barbearia/ # Pasta principal do site
+│ ├── index.html # Página inicial do site (estrutura principal)
+│ ├── style.css # Arquivo de estilização (cores, fontes e layout)
+│ ├── script.js # Script JS para funcionalidades (menu responsivo, etc)
+│ │
+│ ├── /img # Imagens utilizadas no site
+│ │ ├── barbershop_logo1.jpeg # Logotipo da barbearia
+│ │ ├── barbearia1.png # Imagem do carrossel
+│ │ ├── barbearia3.png # Imagem do carrossel
+│ │ └── barbearia3.jpg # Imagem do carrossel
+│ │
+│ └── /assets # Pasta opcional (ícones, fontes, etc)
+│
+├── README.md # Documentação do projeto
+└── LICENSE (opcional) # Licença do repositório
 
 ---
 
@@ -82,14 +98,9 @@ Desenvolver um **website institucional** que represente uma barbearia real, unin
 
 ## 🏁 Considerações Finais
 
-O projeto *Our Studio_Wt* representa o resultado da aplicação prática dos conhecimentos adquiridos ao longo do curso.  
+O projeto *Our Studio* representa o resultado da aplicação prática dos conhecimentos adquiridos ao longo do curso.  
 Nosso objetivo é demonstrar como a tecnologia pode **impulsionar negócios locais**, ampliando sua visibilidade e profissionalismo no ambiente digital.
 
----
-
-### 📸 Prévia do Site
-
-*(adicione aqui uma imagem ou print do site após o upload no GitHub)*
 
 ---
 
