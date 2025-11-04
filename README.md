@@ -9,7 +9,7 @@ Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos <br>
 Comunicação e Expressão: Prof. PhD. Andreza Maria de Souza Rocha <br>
 Administração Geral Prof. Jairo Gonçalves Duarte <br>
 
-<h3>PROJETO & SITE:</h3>
+<h2>PROJETO & SITE:</h2>
 
 URL PROJETO:https://github.com/LucasPessoa68/SITE-BARBEARIA<br>
 
