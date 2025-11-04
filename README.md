@@ -1,11 +1,15 @@
-<h1>Projeto Informática e Negócios</h1>
+<h1>Projeto Informática e Negócios
+Fatec Mauá</h1>
+
 Barbearia
 
 Projeto site barbershop (Our Studio_Wt) CNPJ:50108193000177 - W barbershop
 
-Disciplinas: Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos; Comunicação e Expressão: Professora Andreza Maria de Souza Rocha; Administração Geral Prof. Jairo Gonçalves Duarte - Fatec Mauá
+Disciplinas: Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos <br>
+Comunicação e Expressão: Professora Andreza Maria de Souza Rocha <br>
+Administração Geral Prof. Jairo Gonçalves Duarte <br>
 
-URL projeto:
+URL projeto:https://github.com/LucasPessoa68/SITE-BARBEARIA/tree/main
 
 URL site:https://lucaspessoa68.github.io/SITE-BARBEARIA/Barbearia/Barbearia/index.html
 
