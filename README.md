@@ -1,5 +1,4 @@
-<h1>Projeto Informática e Negócios
-Fatec Mauá</h1>
+<h1>Projeto Informática e Negócios - Fatec Mauá</h1>
 
 Barbearia
 
