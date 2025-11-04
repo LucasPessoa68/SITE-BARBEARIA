@@ -11,14 +11,13 @@ URL site:https://lucaspessoa68.github.io/SITE-BARBEARIA/Barbearia/Barbearia/inde
 
 Integrantes:
 
-Beatriz Damaceno Jardim
-Carlos Tailleson de Santana
-Felipe Amaral Alves
-Gustavo Campos Lopes Passos
-Lucas Pessoa de Freitas
-Nicolas Fernando Lopes
-Pietra Rodrigues Barros
-Sérgio da Silva dos Santos
-Talita Ribeiro Macedo
+#Beatriz Damaceno Jardim#
+#Carlos Tailleson de Santana#
+#Felipe Amaral Alves#
+#Gustavo Campos Lopes Passos#
+#Lucas Pessoa de Freitas#
+#Nicolas Fernando Lopes#
+#Pietra Rodrigues Barros#
+#Sérgio da Silva dos Santos#
 
 Decorrente a proposta do projeto integrador no curso de Informática para negócios na Fatec Mauá,será efetuada a criação de um website com o conteúdo aprendido em sala. Nosso site criado a partir de um CNPJ real e ativo de barbearia, utilizando as tecnologias HTML, CSS
