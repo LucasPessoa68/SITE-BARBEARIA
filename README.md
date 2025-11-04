@@ -61,8 +61,8 @@ SITE-BARBEARIA   <br>
 │ │<br>
 │ └── /assets # Pasta opcional (ícones, fontes, etc)<br>
 │<br>
-├── README.md # Documentação do projeto<br>
-└── LICENSE (opcional) # Licença do repositório<br>
+├─└─── README.md # Documentação do projeto<br>
+├─└─── LICENSE (opcional) # Licença do repositório<br>
 
 ---
 
