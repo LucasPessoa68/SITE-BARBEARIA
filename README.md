@@ -44,3 +44,39 @@ O site foi construído com foco em **design responsivo**, **usabilidade** e **co
 
 ## 🧩 Estrutura do Projeto
 
+---
+
+## 👥 Integrantes do Grupo
+
+- Beatriz Damaceno Jardim  
+- Carlos Tailleson de Santana  
+- Felipe Amaral Alves  
+- Gustavo Campos Lopes Passos  
+- Lucas Pessoa de Freitas  
+- Nicolas Fernando Lopes  
+- Pietra Rodrigues Barros  
+- Sérgio da Silva dos Santos  
+
+---
+
+## 🧭 Objetivo Geral
+
+Desenvolver um **website institucional** que represente uma barbearia real, unindo **conceitos de tecnologia, administração e comunicação**, reforçando a integração entre **negócios e inovação digital**.
+
+---
+
+## 🏁 Considerações Finais
+
+O projeto *Our Studio_Wt* representa o resultado da aplicação prática dos conhecimentos adquiridos ao longo do curso.  
+Nosso objetivo é demonstrar como a tecnologia pode **impulsionar negócios locais**, ampliando sua visibilidade e profissionalismo no ambiente digital.
+
+---
+
+### 📸 Prévia do Site
+
+*(adicione aqui uma imagem ou print do site após o upload no GitHub)*
+
+---
+
+💡 **Desenvolvido por alunos da Fatec Mauá – Curso de Informática para Negócios.**
+
