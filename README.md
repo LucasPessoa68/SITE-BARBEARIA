@@ -1,6 +1,8 @@
-# 💈 Our Studio_Wt - W Barbershop
+# PROJETO DE EXTRENSÃO - INFORMÁTICA PARA NEGÓCIOS
 
-Bem-vindo ao repositório do projeto **Our Studio_Wt**, desenvolvido pelos alunos do curso de **Informática para Negócios** da **Fatec Mauá**.  
+# 💈 Our Studio
+
+Bem-vindo ao repositório do projeto **Our Studio**, desenvolvido pelos alunos do curso de **Informática para Negócios** da **Fatec Mauá**.  
 O projeto consiste na criação de um **site institucional** para uma barbearia real, com o objetivo de aplicar conhecimentos em tecnologia, administração e comunicação.
 
 ---
