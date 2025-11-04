@@ -31,7 +31,7 @@ O projeto consiste na criação de um **site institucional** para uma barbearia 
 
 ## 🧠 Objetivo do Projeto
 
-O principal objetivo deste projeto é **criar um website funcional e moderno** para a barbearia *W Barbershop*, aplicando os conhecimentos adquiridos nas disciplinas do curso.  
+O principal objetivo deste projeto é **criar um website funcional e moderno** para a barbearia *OUR STUDIO*, aplicando os conhecimentos adquiridos nas disciplinas do curso.  
 O site foi construído com foco em **design responsivo**, **usabilidade** e **comunicação eficiente** com os clientes.
 
 ---
