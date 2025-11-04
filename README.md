@@ -5,7 +5,7 @@ Barbearia
 Projeto site barbershop (Our Studio_Wt) CNPJ:50108193000177 - W barbershop
 
 Disciplinas: Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos <br>
-Comunicação e Expressão: Professora Andreza Maria de Souza Rocha <br>
+Comunicação e Expressão: Prof. PhD. Andreza Maria de Souza Rocha <br>
 Administração Geral Prof. Jairo Gonçalves Duarte <br>
 
 URL projeto:https://github.com/LucasPessoa68/SITE-BARBEARIA
