@@ -46,12 +46,12 @@ O site foi construído com foco em **design responsivo**, **usabilidade** e **co
 
 ## 📂 Estrutura Completa do Projeto
 SITE-BARBEARIA/
-│
+│<br>
 ├── Barbearia/ # Pasta principal do site<br>
 │ ├── index.html # Página inicial do site (estrutura principal)<br>
 │ ├── style.css # Arquivo de estilização (cores, fontes e layout)<br>
 │ ├── script.js # Script JS para funcionalidades (menu responsivo, etc)<br>
-│ │
+│ │<br>
 │ ├── /img # Imagens utilizadas no site<br>
 │ │ ├── barbershop_logo1.jpeg # Logotipo da barbearia<br>
 │ │ ├── barbearia1.png # Imagem do carrossel<br>
@@ -59,7 +59,7 @@ SITE-BARBEARIA/
 │ │ └── barbearia3.jpg # Imagem do carrossel<br>
 │ │
 │ └── /assets # Pasta opcional (ícones, fontes, etc)<br>
-│
+│<br>
 ├── README.md # Documentação do projeto<br>
 └── LICENSE (opcional) # Licença do repositório<br>
 
