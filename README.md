@@ -1,6 +1,6 @@
 # 💈 Our Studio_Wt - W Barbershop
 
-Bem-vindo ao repositório do projeto **Our Studio_Wt**, desenvolvido pelos alunos do curso de **Informática para Negócios** da **Fatec Mauá**.  
+Bem-vindo ao repositório do projeto **Our Studio**, desenvolvido pelos alunos do curso de **Informática para Negócios** da **Fatec-Mauá**.  
 O projeto consiste na criação de um **site institucional** para uma barbearia real, com o objetivo de aplicar conhecimentos em tecnologia, administração e comunicação.
 
 ---
@@ -28,7 +28,7 @@ O projeto consiste na criação de um **site institucional** para uma barbearia 
 
 ## 🧠 Objetivo do Projeto
 
-O principal objetivo deste projeto é **criar um website funcional e moderno** para a barbearia *W Barbershop*, aplicando os conhecimentos adquiridos nas disciplinas do curso.  
+O principal objetivo deste projeto é **criar um website funcional e moderno** para a barbearia *OUR STUDIO*, aplicando os conhecimentos adquiridos nas disciplinas do curso.  
 O site foi construído com foco em **design responsivo**, **usabilidade** e **comunicação eficiente** com os clientes.
 
 ---
@@ -70,11 +70,6 @@ Desenvolver um **website institucional** que represente uma barbearia real, unin
 O projeto *Our Studio_Wt* representa o resultado da aplicação prática dos conhecimentos adquiridos ao longo do curso.  
 Nosso objetivo é demonstrar como a tecnologia pode **impulsionar negócios locais**, ampliando sua visibilidade e profissionalismo no ambiente digital.
 
----
-
-### 📸 Prévia do Site
-
-*(adicione aqui uma imagem ou print do site após o upload no GitHub)*
 
 ---
 
