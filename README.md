@@ -8,7 +8,7 @@ Disciplinas: Informática e Negócios - Prof.PhD. Bruno Zolotareff dos Santos <b
 Comunicação e Expressão: Professora Andreza Maria de Souza Rocha <br>
 Administração Geral Prof. Jairo Gonçalves Duarte <br>
 
-URL projeto:https://github.com/LucasPessoa68/SITE-BARBEARIA/tree/main
+URL projeto:https://github.com/LucasPessoa68/SITE-BARBEARIA
 
 URL site:https://lucaspessoa68.github.io/SITE-BARBEARIA/Barbearia/Barbearia/index.html
 
