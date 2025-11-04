@@ -39,7 +39,8 @@ O site foi construído com foco em **design responsivo**, **usabilidade** e **co
 ## 💻 Tecnologias Utilizadas
 
 - **HTML5** → estrutura e semântica do site  
-- **CSS3** → estilização e responsividade  
+- **CSS3** → estilização e responsividade
+- **JavaScript** → interatividade e dinamicidade  
 - **Bootstrap 5** → componentes prontos e design responsivo  
 - **Git & GitHub** → versionamento e hospedagem do projeto  
 
