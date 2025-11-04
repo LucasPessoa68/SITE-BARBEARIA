@@ -53,7 +53,7 @@ SITE-BARBEARIA   <br>
 │ ├── style.css # Arquivo de estilização (cores, fontes e layout)<br>
 │ ├── script.js # Script JS para funcionalidades (menu responsivo, etc)<br>
 │ │<br>
-│ ├──/img # Imagens utilizadas no site<br>
+│ ├─────/img # Imagens utilizadas no site<br>
 │ │ ├── barbershop_logo1.jpeg # Logotipo da barbearia<br>
 │ │ ├── barbearia1.png # Imagem do carrossel<br>
 │ │ ├── barbearia3.png # Imagem do carrossel<br>
